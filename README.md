@@ -1,12 +1,11 @@
-# 👩‍💻 Geovanny
+# 👩‍💻 Geovanny Freire
 
 **Estudante de Desenvolvimento Fullstack**
 
-Olá! Sou a Geovanny Freire, estudante com foco em Desenvolvimento Fullstack.
-Tenho grande interesse na criação de aplicações modernas, eficientes e acessíveis. Atualmente estou à procura de oportunidades na área de tecnologia para aplicar os meus conhecimentos e evoluir como programadora.
+Olá! Sou Geovanny Freire, estudante com foco em Desenvolvimento Fullstack. Tenho grande interesse na criação de aplicações modernas, eficientes e acessíveis. Atualmente estou em busca de oportunidades na área de tecnologia para aplicar meus conhecimentos e evoluir como desenvolvedor(a).
 
-[![Estrelas](https://img.shields.io/github/stars/Geovanny-Freire?style=social)](https://github.com/Geovanny-Freire)
-[![Seguidores](https://img.shields.io/github/followers/Geovanny-Freire?style=social)](https://github.com/Geovanny-Freire)
+[![Estrelas](https://img.shields.io/github/stars/GeovannyFreire?style=social)](https://github.com/GeovannyFreire)
+[![Seguidores](https://img.shields.io/github/followers/GeovannyFreire?style=social)](https://github.com/GeovannyFreire)
 
 ---
 
@@ -28,7 +27,7 @@ Tenho grande interesse na criação de aplicações modernas, eficientes e acess
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Geovanny-Freire&theme=dark&hide_border=false" alt="Streak do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeovannyFreire&theme=dark&hide_border=false" alt="Streak do GitHub" />
 </p>
 
 ---
@@ -46,4 +45,4 @@ Atualmente procuro uma oportunidade de estágio ou desenvolvimento júnior onde 
 ### 📬 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Geovanny-Freire)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeovannyFreire)
